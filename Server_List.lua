@@ -9,5 +9,6 @@ local Server = {
     ["最强战场"] = "https://raw.githubusercontent.com/DevSloPo/nil/refs/heads/main/%E6%9C%80%E5%BC%BA%E6%88%98%E5%9C%BA",
     ["战争大亨"] = "https://raw.githubusercontent.com/DevSloPo/nil/refs/heads/main/%E6%88%98%E4%BA%89%E5%A4%A7%E4%BA%A8",
     ["刀刃球"] = "https://raw.githubusercontent.com/DevSloPo/nil/refs/heads/main/%E5%88%80%E5%88%83%E7%90%83",
+    ["汽车经销大亨"] = "https://github.com/DevSloPo/nil/blob/main/%E6%B1%BD%E8%BD%A6%E7%BB%8F%E9%94%80%E5%A4%A7%E4%BA%A8",
 } -- ["Server Name"] = "URl",
 return Server
